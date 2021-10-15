@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PokedexMVVM.Views.PokemonView">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="{Binding Name}" HorizontalOptions="Center"  FontSize="22" FontAttributes="Bold" TextColor="Chocolate" BackgroundColor="Chartreuse"/>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="4*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                </Grid.RowDefinitions>
+                <Label Text="Front"/>
+                <Label Grid.Column="1" Text="Back"/>
+                <Image Grid.Column="0" Grid.Row="1" Source="{Binding Sprites.FrontDefault}"/>
+                <Image Grid.Column="1" Grid.Row="1" Source="{Binding Sprites.BackDefault}"/>
+                <Label Text="Taille : " Grid.Row="2" Grid.Column="0"/>
+                <Label Text="{Binding Height}" Grid.Row="2" Grid.Column="1"/>
+                <Label Text="Poids : " Grid.Row="3" Grid.Column="0"/>
+                <Label Text="{Binding Weight}" Grid.Row="3" Grid.Column="1"/>
+                <Button Command="{Binding CloseCommand}" Text="Fermer" Grid.Row="4" Grid.ColumnSpan="2" />
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

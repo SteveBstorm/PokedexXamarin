@@ -1,0 +1,17 @@
+C:\Users\Steve\source\Demo\TFMobile21\PokedexMVVM\PokedexMVVM\PokedexMVVM\bin\Debug\netstandard2.0\PokedexMVVM.deps.json
+C:\Users\Steve\source\Demo\TFMobile21\PokedexMVVM\PokedexMVVM\PokedexMVVM\bin\Debug\netstandard2.0\PokedexMVVM.dll
+C:\Users\Steve\source\Demo\TFMobile21\PokedexMVVM\PokedexMVVM\PokedexMVVM\bin\Debug\netstandard2.0\ref\PokedexMVVM.dll
+C:\Users\Steve\source\Demo\TFMobile21\PokedexMVVM\PokedexMVVM\PokedexMVVM\bin\Debug\netstandard2.0\PokedexMVVM.pdb
+C:\Users\Steve\source\Demo\TFMobile21\PokedexMVVM\PokedexMVVM\PokedexMVVM\obj\Debug\netstandard2.0\PokedexMVVM.csproj.AssemblyReference.cache
+C:\Users\Steve\source\Demo\TFMobile21\PokedexMVVM\PokedexMVVM\PokedexMVVM\obj\Debug\netstandard2.0\PokedexMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\source\Demo\TFMobile21\PokedexMVVM\PokedexMVVM\PokedexMVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Steve\source\Demo\TFMobile21\PokedexMVVM\PokedexMVVM\PokedexMVVM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Steve\source\Demo\TFMobile21\PokedexMVVM\PokedexMVVM\PokedexMVVM\obj\Debug\netstandard2.0\Views\PokedexView.xaml.g.cs
+C:\Users\Steve\source\Demo\TFMobile21\PokedexMVVM\PokedexMVVM\PokedexMVVM\obj\Debug\netstandard2.0\Views\PokemonView.xaml.g.cs
+C:\Users\Steve\source\Demo\TFMobile21\PokedexMVVM\PokedexMVVM\PokedexMVVM\obj\Debug\netstandard2.0\PokedexMVVM.AssemblyInfoInputs.cache
+C:\Users\Steve\source\Demo\TFMobile21\PokedexMVVM\PokedexMVVM\PokedexMVVM\obj\Debug\netstandard2.0\PokedexMVVM.AssemblyInfo.cs
+C:\Users\Steve\source\Demo\TFMobile21\PokedexMVVM\PokedexMVVM\PokedexMVVM\obj\Debug\netstandard2.0\PokedexMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Steve\source\Demo\TFMobile21\PokedexMVVM\PokedexMVVM\PokedexMVVM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Steve\source\Demo\TFMobile21\PokedexMVVM\PokedexMVVM\PokedexMVVM\obj\Debug\netstandard2.0\PokedexMVVM.dll
+C:\Users\Steve\source\Demo\TFMobile21\PokedexMVVM\PokedexMVVM\PokedexMVVM\obj\Debug\netstandard2.0\ref\PokedexMVVM.dll
+C:\Users\Steve\source\Demo\TFMobile21\PokedexMVVM\PokedexMVVM\PokedexMVVM\obj\Debug\netstandard2.0\PokedexMVVM.pdb

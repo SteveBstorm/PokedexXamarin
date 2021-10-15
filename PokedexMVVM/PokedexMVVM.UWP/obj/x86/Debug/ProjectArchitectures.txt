@@ -1,0 +1,1 @@
+C:\Users\Steve\source\Demo\TFMobile21\PokedexMVVM\PokedexMVVM\PokedexMVVM.UWP\PokedexMVVM.UWP.csproj;x86
